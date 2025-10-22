@@ -91,9 +91,13 @@ All assets, visuals, or references that resemble existing works are included **s
 ## 👩‍💻 Developers
 
 Tiara Devanathan
+
 Reyasen Naicker
+
 Prashantan Naidoo
+
 Zuriel Singh
+
 Mahir Syed
 
 ---
